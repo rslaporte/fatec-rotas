@@ -1,0 +1,40 @@
+.images {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: center;
+    height : 80vh;
+    width: 100vw;
+    max-width: 100%
+}
+
+.backButtonContainer {
+    display : inline-flex; 
+    justify-content : end;
+    width: 100vw; 
+    max-width : 100%
+}
+
+.backButton {
+    background: none;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    margin: 0 5% 0 0;
+    font-size: 36px;
+    font-family: 'Roboto';
+    font-weight : bold
+}
+
+.logo {
+    height : 400px;
+    width: 300px;
+    margin-top: 10%;
+    margin-right: 3%
+}
+
+.logoPage {
+    height: 700px;
+    width: 1000px;
+    max-width: 100%;
+}
+

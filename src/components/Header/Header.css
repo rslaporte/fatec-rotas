@@ -1,0 +1,49 @@
+html {
+    overflow-y: scroll;
+}
+
+header {
+    background: rgb(199, 199, 199);
+    display: inline-block;
+    text-align: center;
+    height: 10vh;
+    width: 100vw;
+    max-width: 100%;
+    transition: 0.5s;
+    top: 0;
+    z-index: 1;
+}
+
+.main-menu {
+    height: 15vh;
+    justify-content: center;
+    padding-top: 1%;
+}
+
+.sub-menu {
+    transition: 0.8s;
+}
+
+.menu-button {
+    align-items: center;
+    justify-content: center;
+    background: none;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 36px;
+    font-family: 'Roboto';
+    margin-right: 5%;
+}
+
+.submenu-button {
+    align-items: center;
+    background: none;
+    padding: 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: 'Roboto';
+    margin-right: 5%;
+}

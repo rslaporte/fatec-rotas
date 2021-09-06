@@ -1,0 +1,56 @@
+{
+    "main": [
+        {
+            "path": "/fiat",
+            "title": "1. FIAT",
+            "color": "green"
+        },
+        {
+            "path": "/ford",
+            "title": "2. FORD",
+            "color": "pink"
+        },
+        {
+            "path": "/chevrolet",
+            "title": "3. CHEVROLET",
+            "color": "blue"
+        },
+        {
+            "path": "/vw",
+            "title": "4. VW",
+            "color": "yellow"
+        },
+        {
+            "path": "/hyundai",
+            "title": "5. HYUNDAI",
+            "color": "white"
+        }
+    ],
+    "chevrolet": [
+        {
+            "path" : "/chevrolet/brasilia",
+            "title": "4.1 BRASÍLIA",
+            "color": "green"
+        },
+        {
+            "path" : "/chevrolet/fusca",
+            "title": "4.2 FUSCA",
+            "color": "pink"
+        },
+        {
+            "path" : "/chevrolet/kombi",
+            "title": "4.3 KOMBI",
+            "color": "blue"
+        },
+        {
+            "path" : "/chevrolet/polo",
+            "title": "4.4 POLO",
+            "color": "yellow"
+        },
+        {
+            "path" : "/chevrolet/gol",
+            "title": "4.5 GOL",
+            "color": "white"
+        }
+    ]
+}
