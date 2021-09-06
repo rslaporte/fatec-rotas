@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/fatec-rotas/static/css/main.41c482e5.chunk.css",
+    "main.js": "/fatec-rotas/static/js/main.f6222a18.chunk.js",
+    "main.js.map": "/fatec-rotas/static/js/main.f6222a18.chunk.js.map",
+    "runtime-main.js": "/fatec-rotas/static/js/runtime-main.45b281d1.js",
+    "runtime-main.js.map": "/fatec-rotas/static/js/runtime-main.45b281d1.js.map",
+    "static/js/2.9cdc5e62.chunk.js": "/fatec-rotas/static/js/2.9cdc5e62.chunk.js",
+    "static/js/2.9cdc5e62.chunk.js.map": "/fatec-rotas/static/js/2.9cdc5e62.chunk.js.map",
+    "index.html": "/fatec-rotas/index.html",
+    "static/css/main.41c482e5.chunk.css.map": "/fatec-rotas/static/css/main.41c482e5.chunk.css.map",
+    "static/js/2.9cdc5e62.chunk.js.LICENSE.txt": "/fatec-rotas/static/js/2.9cdc5e62.chunk.js.LICENSE.txt",
+    "static/media/brasilia.jpg": "/fatec-rotas/static/media/brasilia.5232fbfc.jpg",
+    "static/media/chevrolet.jpg": "/fatec-rotas/static/media/chevrolet.92114f7b.jpg",
+    "static/media/fiat.png": "/fatec-rotas/static/media/fiat.2f8280fd.png",
+    "static/media/ford.png": "/fatec-rotas/static/media/ford.db7582e1.png",
+    "static/media/fusca.jpg": "/fatec-rotas/static/media/fusca.6f38d924.jpg",
+    "static/media/gol.jpg": "/fatec-rotas/static/media/gol.cf34157b.jpg",
+    "static/media/hyundai.png": "/fatec-rotas/static/media/hyundai.f4c712de.png",
+    "static/media/kombi.jpg": "/fatec-rotas/static/media/kombi.ad91f241.jpg",
+    "static/media/polo.jpg": "/fatec-rotas/static/media/polo.9271e9f4.jpg",
+    "static/media/vw.png": "/fatec-rotas/static/media/vw.75033922.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45b281d1.js",
+    "static/js/2.9cdc5e62.chunk.js",
+    "static/css/main.41c482e5.chunk.css",
+    "static/js/main.f6222a18.chunk.js"
+  ]
+}
