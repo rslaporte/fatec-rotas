@@ -26,29 +26,29 @@
             "color": "white"
         }
     ],
-    "chevrolet": [
+    "vw": [
         {
-            "path" : "/chevrolet/brasilia",
+            "path" : "/vw/brasilia",
             "title": "4.1 BRASÍLIA",
             "color": "green"
         },
         {
-            "path" : "/chevrolet/fusca",
+            "path" : "/vw/fusca",
             "title": "4.2 FUSCA",
             "color": "pink"
         },
         {
-            "path" : "/chevrolet/kombi",
+            "path" : "/vw/kombi",
             "title": "4.3 KOMBI",
             "color": "blue"
         },
         {
-            "path" : "/chevrolet/polo",
+            "path" : "/vw/polo",
             "title": "4.4 POLO",
             "color": "yellow"
         },
         {
-            "path" : "/chevrolet/gol",
+            "path" : "/vw/gol",
             "title": "4.5 GOL",
             "color": "white"
         }

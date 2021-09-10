@@ -11,7 +11,7 @@ export default function Gol() {
             </div>
 
             <div className='backButtonContainer'>
-                <button className='backButton' onClick={() => {history.push('/chevrolet')}}>Voltar</button>
+                <button className='backButton' onClick={() => {history.push('/vw')}}>Voltar</button>
             </div>       
         </>
     )

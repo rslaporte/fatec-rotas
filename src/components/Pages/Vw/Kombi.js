@@ -1,17 +1,17 @@
 import React from 'react'
 import { useHistory } from 'react-router'
 
-export default function Polo() {
+export default function Kombi() {
     const history = useHistory()
 
     return(
         <>
             <div className='images'>
-                <img alt='brasilia' src={require('../../../assets/img/polo.jpg').default} />
+                <img alt='brasilia' src={require('../../../assets/img/kombi.jpg').default} />
             </div>
 
             <div className='backButtonContainer'>
-                <button className='backButton' onClick={() => {history.push('/chevrolet')}}>Voltar</button>
+                <button className='backButton' onClick={() => {history.push('/vw')}}>Voltar</button>
             </div>       
         </>
     )
